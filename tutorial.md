@@ -1,7 +1,8 @@
 # On the power of sufficiently advanced technology: demystifying Datalog's Magic
 
 A tutorial that attempts to explain the concept of Magic used in the
-implementation of Datalog.
+implementation of Datalog. This tutorial assumes that you know a little bit
+about Prolog-style logic programming languages.
 
 ## Introduction
 
@@ -408,6 +409,17 @@ exit_p(X, ...) :- enter_p(X, ...), exit_q0(Y, ...), ..., exit_qn(Z, ...)
 
 This isn't *completely* correct, there is still some nuance, but the shape of it
 is correct.
+
+My personal favorite visualization is a local subtree of the proof structures,
+with marks for the entering and exiting "sides" of a proposition, and arrows
+connecting them in the appropriate way:
+
+!!! IMAGE
+
+I find these images to be very easy to conjure , and they lend themselves nicely
+to manually generating the result of Magic. So while the above symbolic
+representation is useful, I find the visualization to be vastly more useful for
+actually remembering just what's going on with Magic.
 
 # The Nuance
 

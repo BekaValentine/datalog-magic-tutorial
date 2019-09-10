@@ -287,16 +287,12 @@ So let's remove them. The various state transitions we want to have are now
 captured in the following rules:
 
 ```prolog
-exit_ancestor(X,Y) :- enter_ancestor(X), parent(X,Y).
-enter_ancestor(Z) :- enter_ancestor(X), parent(X,Z).
-exit_ancestor(X,Y) :- enter_ancestor(X), parent(X,Z), exit_ancestor(Z,Y).
+enter_parent(X) :- enter_ancestor(X).
+exit_parent(X,Y) :- enter_parent(X), parent(X,Y).
+enter_ancestor(Z) :- enter_ancestor(X), exit_parent(X,Z).
+exit_ancestor(X,Y) :- enter_ancestor(X), exit_parent(X,Y).
+exit_ancestor(X,Y) :- enter_ancestor(X), exit_parent(X,Z), exit_ancestor(Z,Y).
 ```
-
-We have no rules for entering or exiting `parent` propositions because those
-are all facts that don't derive from inference, and so we don't need to worry
-about adding new useless `parent` facts during evaluation. Correspondingly, we
-don't need to distinguish between entering and exiting of `parent` propositions
-in our rules, because the totality of those is already written in the program.
 
 Each of these rules corresponds directly to one of the steps we need to
 capture:
@@ -306,6 +302,7 @@ capture:
 % using the rule `ancestor(X,Y) :- parent(X,Y).`
 
 Enter ancestor(X,Y) -> Enter parent(X,Y)
+Enter parent(X,Y) -> Exit parent(X,Y), if parent(X,Y) is a fact.
 Exit parent(X,Y) -> Exit ancestor(X,Y)
 
 % Steps for computing `ancestor(X,Y)`
@@ -321,7 +318,7 @@ same as one of the steps for the non-recursive `ancestor` rule, so our Datalog
 has only 4 rules to capture the steps.
 
 You might be wondering, though, why some of our rules have `enter`
-on the right hand side of an `exit` rule. Namely,
+on the right hand side of an `exit` rule. For instance,
 
 ```prolog
 exit_ancestor(X,Y) :- enter_ancestor(X), exit_parent(X,Z), exit_ancestor(Z,Y).
@@ -414,7 +411,7 @@ My personal favorite visualization is a local subtree of the proof structures,
 with marks for the entering and exiting "sides" of a proposition, and arrows
 connecting them in the appropriate way:
 
-!!! IMAGE
+![Image of three rules that correspond to `ancestor(X,Y) :- parent(X,Z), ancestor(Z,Y)`](tutorial_diagram.svg)
 
 I find these images to be very easy to conjure , and they lend themselves nicely
 to manually generating the result of Magic. So while the above symbolic

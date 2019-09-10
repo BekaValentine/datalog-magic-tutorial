@@ -5,11 +5,30 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
    viewBox="0 0 185.20833 70.908332"
    height="268"
-   width="700">
+   width="700"
+   sodipodi:docname="tutorial_diagram.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview7686"
+     showgrid="false"
+     showguides="true"
+     inkscape:current-layer="svg8" />
   <defs
      id="defs2">
     <marker
@@ -109,165 +128,165 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0,-226.09167)"
-     id="layer1">
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,0,97)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot3472"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3474"><rect
-           y="370.39371"
-           x="355.27557"
-           height="15.11811"
-           width="34.015747"
-           id="rect3476" /></flowRegion><flowPara
-         id="flowPara3478" /></flowRoot>    <g
-       transform="matrix(1.8936408,0,0,1.8936408,-97.561854,-88.011898)"
-       id="g3594">
-      <text
-         id="text3540"
-         y="172"
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3472"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(0.26458333,0,0,0.26458333,0,-129.09167)"><flowRegion
+       id="flowRegion3474"><rect
+         id="rect3476"
+         width="34.015747"
+         height="15.11811"
+         x="355.27557"
+         y="370.39371" /></flowRegion><flowPara
+       id="flowPara3478" /></flowRoot>  <g
+     id="g3594"
+     transform="matrix(1.8936408,0,0,1.8936408,-97.561854,-314.10357)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="100"
+       y="172"
+       id="text3540"><tspan
+         id="tspan3538"
          x="100"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
-           y="172"
-           x="100"
-           id="tspan3538">ancestor(X,Y)</tspan></text>
-      <text
-         id="text3544"
-         y="197"
+         y="172"
+         style="stroke-width:0.26458332">ancestor(X,Y)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="75"
+       y="197"
+       id="text3544"><tspan
+         id="tspan3542"
          x="75"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
-           y="197"
-           x="75"
-           id="tspan3542">parent(X,Z)</tspan></text>
-      <text
-         id="text3548"
          y="197"
+         style="stroke-width:0.26458332">parent(X,Z)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="125"
+       y="197"
+       id="text3548"><tspan
+         id="tspan3546"
          x="125"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
-           y="197"
-           x="125"
-           id="tspan3546">ancestor(Z,Y)</tspan></text>
-      <path
-         id="path3550"
-         d="m 75,193.58751 25,-20 25,20"
-         style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="0.49999997"
-         rx="0.5"
-         style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
-         cy="171"
-         cx="113"
-         id="ellipse3552" />
-      <ellipse
-         id="ellipse3554"
-         cx="87"
-         cy="171"
-         style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
-         rx="0.5"
-         ry="0.49999997" />
-      <ellipse
-         ry="0.49999997"
-         rx="0.5"
-         style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
-         cy="196"
-         cx="64"
-         id="ellipse3556" />
-      <ellipse
-         ry="0.49999997"
-         rx="0.5"
-         style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
-         cy="196"
-         cx="86"
-         id="ellipse3558" />
-      <ellipse
-         id="ellipse3560"
-         cx="112"
-         cy="196"
-         style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
-         rx="0.5"
-         ry="0.49999997" />
-      <ellipse
-         ry="0.49999997"
-         rx="0.5"
-         style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
-         cy="196"
-         cx="138"
-         id="ellipse3562" />
-      <path
-         id="path3564"
-         d="m 86.999954,172 c 0,8 -23,15 -23,23"
-         style="fill:none;fill-opacity:1;stroke:#ff69b4;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
-      <path
-         id="path3566"
-         d="m 138,195 c 0,-8 -25,-15 -25,-23"
-         style="fill:none;fill-opacity:1;stroke:#ff69b4;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2436)" />
-      <path
-         id="path3568"
-         d="M 85.999999,195 C 85.999999,187 112,187 112,195"
-         style="fill:none;fill-opacity:1;stroke:#ff69b4;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2496)" />
-      <text
-         id="text3578"
-         y="174.88336"
+         y="197"
+         style="stroke-width:0.26458332">ancestor(Z,Y)</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 75,193.58751 25,-20 25,20"
+       id="path3550" />
+    <ellipse
+       id="ellipse3552"
+       cx="113"
+       cy="171"
+       style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       rx="0.5"
+       ry="0.49999997" />
+    <ellipse
+       ry="0.49999997"
+       rx="0.5"
+       style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       cy="171"
+       cx="87"
+       id="ellipse3554" />
+    <ellipse
+       id="ellipse3556"
+       cx="64"
+       cy="196"
+       style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       rx="0.5"
+       ry="0.49999997" />
+    <ellipse
+       id="ellipse3558"
+       cx="86"
+       cy="196"
+       style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       rx="0.5"
+       ry="0.49999997" />
+    <ellipse
+       ry="0.49999997"
+       rx="0.5"
+       style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       cy="196"
+       cx="112"
+       id="ellipse3560" />
+    <ellipse
+       id="ellipse3562"
+       cx="138"
+       cy="196"
+       style="fill:#ff69bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       rx="0.5"
+       ry="0.49999997" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#ff69b4;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 86.999954,172 c 0,8 -23,15 -23,23"
+       id="path3564" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#ff69b4;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2436)"
+       d="m 138,195 c 0,-8 -25,-15 -25,-23"
+       id="path3566" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#ff69b4;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2496)"
+       d="M 85.999999,195 C 85.999999,187 112,187 112,195"
+       id="path3568" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="126.05833"
+       y="174.88336"
+       id="text3578"><tspan
+         id="tspan3570"
          x="126.05833"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="fill:#666666;fill-opacity:1;stroke-width:0.26458332"
-           y="174.88336"
-           x="126.05833"
-           id="tspan3570">exit_ancestor(X,Y) :-</tspan><tspan
-           id="tspan3572"
-           style="fill:#666666;fill-opacity:1;stroke-width:0.26458332"
-           y="177.52919"
-           x="126.05833">    enter_ancestor(X),</tspan><tspan
-           id="tspan3574"
-           style="fill:#666666;fill-opacity:1;stroke-width:0.26458332"
-           y="180.17503"
-           x="126.05833">    exit_parent(X,Z),</tspan><tspan
-           id="tspan3576"
-           style="fill:#666666;fill-opacity:1;stroke-width:0.26458332"
-           y="182.82086"
-           x="126.05833">    exit_ancestor(Z,Y).</tspan></text>
-      <text
-         id="text3586"
-         y="194.11664"
+         y="174.88336"
+         style="fill:#666666;fill-opacity:1;stroke-width:0.26458332">exit_ancestor(X,Y) :-</tspan><tspan
+         x="126.05833"
+         y="177.52919"
+         style="fill:#666666;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3572">    enter_ancestor(X),</tspan><tspan
+         x="126.05833"
+         y="180.17503"
+         style="fill:#666666;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3574">    exit_parent(X,Z),</tspan><tspan
+         x="126.05833"
+         y="182.82086"
+         style="fill:#666666;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3576">    exit_ancestor(Z,Y).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="89.365623"
+       y="194.11664"
+       id="text3586"><tspan
+         id="tspan3580"
          x="89.365623"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332"
-           y="194.11664"
-           x="89.365623"
-           id="tspan3580">enter_ancestor(Z) :-</tspan><tspan
-           id="tspan3582"
-           style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332"
-           y="196.76247"
-           x="89.365623">    enter_ancestor(X),</tspan><tspan
-           id="tspan3584"
-           style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332"
-           y="199.40831"
-           x="89.365623">    exit_parent(X,Z).</tspan></text>
-      <text
-         id="text3592"
-         y="177"
+         y="194.11664"
+         style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332">enter_ancestor(Z) :-</tspan><tspan
+         x="89.365623"
+         y="196.76247"
+         style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3582">    enter_ancestor(X),</tspan><tspan
+         x="89.365623"
+         y="199.40831"
+         style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3584">    exit_parent(X,Z).</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="55.013832"
+       y="177"
+       id="text3592"><tspan
+         id="tspan3588"
          x="55.013832"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332"
-           y="177"
-           x="55.013832"
-           id="tspan3588">enter_parent(X) :-</tspan><tspan
-           id="tspan3590"
-           style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332"
-           y="179.64583"
-           x="55.013832">    enter_ancestor(X,Y).</tspan></text>
-    </g>
+         y="177"
+         style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332">enter_parent(X) :-</tspan><tspan
+         x="55.013832"
+         y="179.64583"
+         style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3590">    enter_ancestor(X).</tspan></text>
   </g>
 </svg>

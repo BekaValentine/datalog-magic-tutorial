@@ -367,7 +367,7 @@
            style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332"
            y="179.64583"
            x="55.013832"
-           sodipodi:role="line">    enter_ancestor(X,Y).</tspan></text>
+           sodipodi:role="line">    enter_ancestor(X).</tspan></text>
     </g>
     <g
        id="g3594"
@@ -532,7 +532,7 @@
            x="55.013832"
            y="179.64583"
            style="text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.26458332"
-           id="tspan3590">    enter_ancestor(X,Y).</tspan></text>
+           id="tspan3590">    enter_ancestor(X).</tspan></text>
     </g>
   </g>
 </svg>
